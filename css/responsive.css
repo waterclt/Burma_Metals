@@ -316,7 +316,7 @@
 
 @media only screen and (max-width: 767px) {
     .section-padding {
-        padding: 60px 0;
+        padding: 50px 0;
     }
     .area-title h2 {
         font-size: 36px;
@@ -427,7 +427,7 @@
         font-size: 55px;
     }
     .about-area .area-title h2 {
-        font-size: 55px;
+        font-size: 38px;
     }
     .about-area .area-title h2 span {
         font-size: 40px;

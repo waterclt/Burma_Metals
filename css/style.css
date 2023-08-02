@@ -135,10 +135,10 @@ input:-webkit-autofill:focus {
     display: inline-block;
     font-family: "Dancing Script", cursive;
     font-size: 60px;
-    letter-spacing: 2px;
-/*     line-height: 0.8; */
+    /* letter-spacing: 2px; */
+    /* line-height: 0.8; */
     margin: 0;
-    padding: 0 20px 45px;
+    /* padding: 0 0px 45px; */
     position: relative;
     text-transform: capitalize;
 }
@@ -154,7 +154,7 @@ input:-webkit-autofill:focus {
 } */
 
 .section-padding {
-    padding: 110px 0;
+    padding: 100px 0;
 }
 .section-padding1 {
     padding: 30px !important;
